@@ -39,9 +39,12 @@ p {
 }
 
 .logo {
-    background-size: cover;
-    background-image: url();
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-image: url(https://appacademy.github.io/styleguide/assets/logo/logo-emblem-black-1000.png);
     background-color: ;
-    height: ;
-    width: ;
+    height: 150px; ;
+    width: 100px;px ;
+    margin-left: 50%;
+    margin-top: 2%;
 }
