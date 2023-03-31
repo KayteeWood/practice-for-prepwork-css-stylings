@@ -1,0 +1,47 @@
+h1 {
+    font-size:larger ;
+    font-family:monospace ;
+    padding:0;
+    margin-right: 10%;
+    margin-left: 10%;
+    margin-top: 5%;
+    font-weight: ;
+    text-decoration: ;
+    color: ;
+    background-color:burlywood ;
+}
+
+h2 {
+    font-size:xx-large ;
+    font-family:fantasy;
+    padding:0 ;
+    margin-right:10% ;
+    margin-bottom: 2%;
+    margin-top: 0%;
+    margin-left: 10%;
+    font-weight:lighter ;
+    color:whitesmoke ;
+    background-color:purple ;
+}
+
+p {
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif ;
+    font-size:large ;
+    padding-top: 2%;
+    padding-right: 0%;
+    padding-left: 0%;
+    margin-right: 10%;
+    margin-left: 10%;
+    margin-top: 0%;
+    margin-bottom: 0%;
+    color:whitesmoke ;
+    background-color:blueviolet ;
+}
+
+.logo {
+    background-size: cover;
+    background-image: url();
+    background-color: ;
+    height: ;
+    width: ;
+}
